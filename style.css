@@ -1,0 +1,86 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+  font-size: 1.6rem; /*16px */
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+  background-color: #303f9f;
+}
+
+.row {
+  max-width: 1024px;
+  margin: 0 auto;
+  text-align: center;
+  color: #fff;
+}
+
+.heading--primary {
+  margin: 2rem auto;
+  color: #cddc39;
+  transition: transform 0.2s;
+}
+
+.heading--primary:hover {
+  transform: translateY(-0.5rem);
+}
+
+.name {
+  margin: 3rem auto;
+  border-top: 1px solid #c5cae9;
+  padding-top: 3rem;
+}
+.section:not(:last-child) {
+  border-bottom: 1px dashed #c5cae9;
+  padding-bottom: 3rem;
+}
+
+.heading--secondary {
+  margin: 2rem auto;
+}
+
+.info {
+  margin: 2rem auto;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.name__photo-box {
+  margin: 0 auto;
+  width: 30rem;
+  height: 30rem;
+  -webkit-clip-path: circle(50% at 50% 50%);
+  clip-path: circle(50% at 50% 50%);
+}
+
+.name__img {
+  width: 400px;
+  transform: translate(-5rem);
+  transition: all 0.2s;
+}
+
+.name__img:hover {
+  transform: translate(-5rem) scale(0.95);
+}
+
+a:link,
+a:visited {
+  text-decoration: none;
+  color: #cddc39;
+}
+a:hover {
+  color: red;
+}
