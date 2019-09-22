@@ -4,7 +4,9 @@
 
 ## Contact Info:
 Email: bakhromov17@gmail.com
+
 Phone number: +998 (94) 607-14-42
+
 Telegram account: [Go to @Khotamtoy](https://t.me/khotamtoy)
 
 ## Summary
@@ -14,7 +16,7 @@ My goal is to be full stack web developer in the IT industry and also in the fut
 HTML5/CSS3(flexbox, grid, simple animations), npm, Vanilla JavaScript, a little React.js and SCSS and working with Git.
 
 ## Code example:
-### SCSS code formating htnl forms:
+### SCSS code formating html forms:
 ```scss
 .form {
   &-group {
@@ -44,7 +46,9 @@ HTML5/CSS3(flexbox, grid, simple animations), npm, Vanilla JavaScript, a little 
 
 ## Experience:
 I have been experiencing in Web world since March 2019. Here are some of my profiles at some courses:
+
 [freecodecamp profile](https://www.freecodecamp.org/khotam)
+
 [codewars profile](https://www.codewars.com/users/JS_Dev2019)
 
 ## Education
